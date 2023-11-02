@@ -1,0 +1,14 @@
+C:\Users\thiag\source\repos\AppTDD\AppTDD\bin\Debug\net6.0\AppTDD.exe
+C:\Users\thiag\source\repos\AppTDD\AppTDD\bin\Debug\net6.0\AppTDD.deps.json
+C:\Users\thiag\source\repos\AppTDD\AppTDD\bin\Debug\net6.0\AppTDD.runtimeconfig.json
+C:\Users\thiag\source\repos\AppTDD\AppTDD\bin\Debug\net6.0\AppTDD.dll
+C:\Users\thiag\source\repos\AppTDD\AppTDD\bin\Debug\net6.0\AppTDD.pdb
+C:\Users\thiag\source\repos\AppTDD\AppTDD\obj\Debug\net6.0\AppTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\AppTDD\AppTDD\obj\Debug\net6.0\AppTDD.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\AppTDD\AppTDD\obj\Debug\net6.0\AppTDD.AssemblyInfo.cs
+C:\Users\thiag\source\repos\AppTDD\AppTDD\obj\Debug\net6.0\AppTDD.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\AppTDD\AppTDD\obj\Debug\net6.0\AppTDD.dll
+C:\Users\thiag\source\repos\AppTDD\AppTDD\obj\Debug\net6.0\refint\AppTDD.dll
+C:\Users\thiag\source\repos\AppTDD\AppTDD\obj\Debug\net6.0\AppTDD.pdb
+C:\Users\thiag\source\repos\AppTDD\AppTDD\obj\Debug\net6.0\AppTDD.genruntimeconfig.cache
+C:\Users\thiag\source\repos\AppTDD\AppTDD\obj\Debug\net6.0\ref\AppTDD.dll
